@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libhyprgrid.so -o libhyprgrid.so CMakeFiles/hyprgrid.dir/src/gridLayout.o CMakeFiles/hyprgrid.dir/src/main.o  -lpixman-1 -ldrm

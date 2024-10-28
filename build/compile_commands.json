@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/jyh/project/hyprGrid/build",
+  "command": "/usr/bin/c++ -Dhyprgrid_EXPORTS -I/home/jyh/project/hyprGrid/include -I/usr/include/pixman-1 -I/usr/include/libdrm -I/usr/local/include/hyprland/protocols -I/usr/local/include/hyprland -std=gnu++23 -fPIC -fPIC -g -o CMakeFiles/hyprgrid.dir/src/gridLayout.o -c /home/jyh/project/hyprGrid/src/gridLayout.cpp",
+  "file": "/home/jyh/project/hyprGrid/src/gridLayout.cpp",
+  "output": "CMakeFiles/hyprgrid.dir/src/gridLayout.o"
+},
+{
+  "directory": "/home/jyh/project/hyprGrid/build",
+  "command": "/usr/bin/c++ -Dhyprgrid_EXPORTS -I/home/jyh/project/hyprGrid/include -I/usr/include/pixman-1 -I/usr/include/libdrm -I/usr/local/include/hyprland/protocols -I/usr/local/include/hyprland -std=gnu++23 -fPIC -fPIC -g -o CMakeFiles/hyprgrid.dir/src/main.o -c /home/jyh/project/hyprGrid/src/main.cpp",
+  "file": "/home/jyh/project/hyprGrid/src/main.cpp",
+  "output": "CMakeFiles/hyprgrid.dir/src/main.o"
+}
+]

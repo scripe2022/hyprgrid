@@ -1,0 +1,3 @@
+/home/jyh/project/hyprGrid/build/CMakeFiles/hyprgrid.dir
+/home/jyh/project/hyprGrid/build/CMakeFiles/edit_cache.dir
+/home/jyh/project/hyprGrid/build/CMakeFiles/rebuild_cache.dir
